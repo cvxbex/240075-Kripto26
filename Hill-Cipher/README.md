@@ -37,8 +37,13 @@ python main.py
 
 SCREENSHOT RUNNING PROGRAM
 Enkripsi :
+
 ![Enkripsi](enkripsi.png)
+
 Deskripsi :
+
 ![Dekripsi](dekripsi.png)
+
 Key Find :
+
 ![Key Find](keyFind.png)
