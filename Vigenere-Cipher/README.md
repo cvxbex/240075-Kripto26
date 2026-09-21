@@ -3,12 +3,12 @@
 
 ==================================================
 
-##### DESKRIPSI PROGRAM
+# DESKRIPSI PROGRAM
 Program ini menggunakan bahasa pemrograman Python untuk mensimulasikan algoritma kriptografi vigenere cipher. Fitur utama program mencakup enkripsi plaintext dan dekripsi ciphertext.
 
 ==================================================
 
-##### ALUR PROGRAM
+# ALUR PROGRAM
 
 ### 1. Inisialisasi Kunci
 * Kunci diubah menjadi huruf kapital (`.upper()`) agar perhitungan nilai geser konsisten.
@@ -34,7 +34,7 @@ Program memeriksa setiap karakter dalam teks input satu per satu:
 
 ==================================================
 
-##### SCREENSHOT RUNNING PROGRAM
+# SCREENSHOT RUNNING PROGRAM
 ![Running](image.png)
 
 *pembuatan code dibantu gemini
