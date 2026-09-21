@@ -1,5 +1,5 @@
-Nama : Rehan Aziz Hardiansyah
-NPM  : 140810240075
+### Nama : Rehan Aziz Hardiansyah
+### NPM  : 140810240075
 
 ==================================================
 
@@ -18,12 +18,12 @@ Program ini menggunakan bahasa pemrograman Python untuk mensimulasikan algoritma
 Program memeriksa setiap karakter dalam teks input satu per satu:
 
 * **Kondisi A: Karakter adalah Huruf (A-Z / a-z)**
-  1. **Penentuan Titik Awal (`start`)**: Memeriksa apakah karakter huruf kapital (`'A'`) atau huruf kecil (`'a'`).
-  2. **Perhitungan Nilai Kunci (`shift`)**: Menghitung jarak huruf kunci relatif terhadap huruf `'A'` (misal: A=0, B=1, C=2, dst.). Kunci diulang menggunakan operasi modulo `key_index % len(key)`.
-  3. **Transformasi Karakter**:
+  1. Penentuan Titik Awal (`start`)**: Memeriksa apakah karakter huruf kapital (`'A'`) atau huruf kecil (`'a'`).
+  2. Perhitungan Nilai Kunci (`shift`)**: Menghitung jarak huruf kunci relatif terhadap huruf `'A'` (misal: A=0, B=1, C=2, dst.). Kunci diulang menggunakan operasi modulo `key_index % len(key)`.
+  3. Transformasi Karakter**:
      * **Enkripsi**: $C = (P + K) \bmod 26$
      * **Dekripsi**: $P = (C - K + 26) \bmod 26$
-  4. **Pembaruan Indeks**: Indeks kunci bertambah `+1` untuk memproses huruf berikutnya.
+  4. Pembaruan Indeks**: Indeks kunci bertambah `+1` untuk memproses huruf berikutnya.
 
 * **Kondisi B: Karakter Non-Alfabet (Spasi, Angka, Simbol)**
   1. Karakter dimasukkan langsung ke hasil tanpa diubah.
