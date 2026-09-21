@@ -36,3 +36,5 @@ Program memeriksa setiap karakter dalam teks input satu per satu:
 
 ##### SCREENSHOT RUNNING PROGRAM
 ![Running](image.png)
+
+*pembuatan code dibantu gemini
